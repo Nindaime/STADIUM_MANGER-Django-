@@ -99,7 +99,7 @@ The payment page displays details of the selected seat and match. It includes a 
 
 ### ERD
 
-![ERD Screenshot](/path/to/erd_screenshot.png)
+![ERD Screenshot](/ERD.png)
 
 ### Application Screenshots
 
