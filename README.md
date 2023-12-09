@@ -103,8 +103,22 @@ The payment page displays details of the selected seat and match. It includes a 
 
 ### Application Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
-![Screenshot 3](/path/to/screenshot3.png)
+![Screenshot 1](/screenshots/SBS (1).png)
+![Screenshot 2](/screenshots/SBS (2).png)
+![Screenshot 3](/screenshots/SBS (3).png)
+![Screenshot 4](/screenshots/SBS (4).png)
+![Screenshot 5](/screenshots/SBS (5).png)
+![Screenshot 6](/screenshots/SBS (6).png)
+![Screenshot 7](/screenshots/SBS (7).png)
+![Screenshot 8](/screenshots/SBS (8).png)
+![Screenshot 9](/screenshots/SBS (9).png)
+![Screenshot 10](/screenshots/SBS (10).png)
+![Screenshot 11](/screenshots/SBS (11).png)
+![Screenshot 12](/screenshots/SBS (12).png)
+![Screenshot 13](/screenshots/SBS (13).png)
+![Screenshot 14](/screenshots/SBS (14).png)
+![Screenshot 15](/screenshots/SBS (15).png)
+![Screenshot 16](/screenshots/SBS (16).png)
+![Screenshot 17](/screenshots/SBS (17).png)
 
 *Add more screenshots as needed.*
