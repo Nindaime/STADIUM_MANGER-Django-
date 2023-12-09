@@ -1,4 +1,4 @@
-# Project Name
+# Stadium Booking Manager
 
 ## Description
 
